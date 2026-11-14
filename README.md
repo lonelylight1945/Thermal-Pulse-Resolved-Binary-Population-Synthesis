@@ -8,18 +8,6 @@ If you use this code or the accompanying stellar evolution grids in your researc
 
 Shi, Y., Ge, H., Belloni, D., Jiang, D., Chen, H., & Han, Z. (2026). [Thermal-pulse-resolved Binary Population Synthesis with Detailed Stellar Models: Implications for Long-period WD+MS Formation](https://arxiv.org/abs/2611.13502). arXiv:2611.13502.
 
-```bibtex
-@misc{shi2026thermal,
-  author        = {Shi, Yanxu and Ge, Hongwei and Belloni, Diogo and Jiang, Dengkai and Chen, Hailiang and Han, Zhanwen},
-  title         = {Thermal-pulse-resolved Binary Population Synthesis with Detailed Stellar Models: Implications for Long-period {WD+MS} Formation},
-  year          = {2026},
-  eprint        = {2611.13502},
-  archivePrefix = {arXiv},
-  primaryClass  = {astro-ph.SR},
-  url           = {https://arxiv.org/abs/2611.13502}
-}
-```
-
 ## Contents
 
 - `grids_data/`: preprocessed MESA donor tracks (`1.0.npz`–`6.0.npz`, in steps of 0.1 solar masses).
